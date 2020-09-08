@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchControl">
+        <attr name="background_color" format="color" />
+        <attr name="button_color" format="color" />
+        <attr name="corner" format="dimension" />
+        <attr name="button_1_text" format="string" />
+        <attr name="button_2_text" format="string" />
+        <attr name="button_text_color" format="color" />
+        <attr name="button_text_size" format="dimension" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name='SwitchControl'
+include ':app'
+include ':switchbutton'
